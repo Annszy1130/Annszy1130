@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my GitHub profile! 🎉
 
 I am a graduate with a master's degree in Economics
 and Information Technology in business. I am interested in the broad field of
