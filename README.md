@@ -10,5 +10,5 @@ learning from experienced people.
 ## Connect with me
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anna-szyszka-2a48881ba/)
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annszy1130&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+[align="left"![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annszy1130&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 
