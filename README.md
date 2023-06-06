@@ -13,8 +13,7 @@ learning from experienced people.
 
 ### languages and tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annszy1130&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+### :fire&color=blueviolet: My Stats :
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annszy1130&theme=tokyonight" alt="mystreak"/>
 
