@@ -16,3 +16,4 @@ learning from experienced people.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annszy1130&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=Annszy1130)
