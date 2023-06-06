@@ -15,5 +15,7 @@ learning from experienced people.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annszy1130&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 
 ![](https://komarev.com/ghpvc/?username=Annszy1130&color=blueviolet&style=for-the-badge)
