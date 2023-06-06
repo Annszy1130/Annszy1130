@@ -1,6 +1,6 @@
 ## Hi there 👋
 Welcome to my GitHub profile! 🎉
-
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 I am a graduate with a master's degree in Economics
 and Information Technology in business. I am interested in the broad field of
 data and I am currently looking for my first job precisely in this field.
