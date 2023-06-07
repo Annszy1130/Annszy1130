@@ -19,7 +19,7 @@ learning from experienced people.
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 
-## Libraries and Frameworks:
+### Libraries and Frameworks
 
 <p align="left"> 
    <a href="https://numpy.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt="express" width="44" height="44" / > </a>
@@ -33,7 +33,7 @@ learning from experienced people.
     <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
 </p>
 
-## Tools and Softwares:
+### Tools and Softwares
  <p align="left"> 
    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a> 
    <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
@@ -41,7 +41,7 @@ learning from experienced people.
   <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a>
   </p>
 
-  ## My Stats:
+  ## My Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annszy1130&theme=tokyonight" alt="mystreak"/>
 
 ![](https://komarev.com/ghpvc/?username=Annszy1130&color=blueviolet&style=for-the-badge)
